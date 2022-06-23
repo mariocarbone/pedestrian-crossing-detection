@@ -26,6 +26,6 @@ import time
 print(tf.__version__)
 
 # Check available GPU devices.
-print("The following GPU devices are available: %s" % tf.test.gpu_device_name())
+#print("The following GPU devices are available: %s" % tf.test.gpu_device_name())
 
 #ok
